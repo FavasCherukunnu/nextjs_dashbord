@@ -1,7 +1,9 @@
-export default function  CustomersPage(){
+import React from 'react'
 
-    return (
-        <p>Customers Page</p>
-    )
-
+function InvoicesPage() {
+  return (
+    <div>Customers page</div>
+  )
 }
+
+export default InvoicesPage
